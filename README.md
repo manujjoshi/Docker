@@ -7,3 +7,5 @@
 ![](https://miro.medium.com/v2/resize:fit:1400/0*5tspNCOuENlSjAgg)
 ## Docker Layered Architecture
 ![](https://docs.docker.com/storage/storagedriver/images/container-layers.jpg)
+## How to Persist Data??
+![](https://docs.docker.com/storage/images/types-of-mounts.png)
