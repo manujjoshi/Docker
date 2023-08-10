@@ -5,3 +5,5 @@
 ![](https://www.edureka.co/blog/wp-content/uploads/2019/09/Picture1-15.png)
 ## Docker Images
 ![](https://miro.medium.com/v2/resize:fit:1400/0*5tspNCOuENlSjAgg)
+## Docker Layered Architecture
+![](https://docs.docker.com/storage/storagedriver/images/container-layers.jpg)
